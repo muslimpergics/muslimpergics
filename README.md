@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muslimpergics Technical Support @ MuslimPergi.com
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning customer service, growth hacking, #MarkOps
-- 💞️ I’m looking to collaborate on Umra / Hajj and Halal tour service
+- 👀 I’m interested in #MarkOps & #DevOps
+- 🌱 I’m currently learning Customer Service & Growth Hacking
+- 💞️ I’m looking to collaborate on Umra / Hajj and Halal Tour service
 - 📫 How to reach me muslimpergi.cs@gmail.com
 
 <!---
