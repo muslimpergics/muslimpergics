@@ -2,7 +2,7 @@
 - 👀 I’m interested in #MarkOps & #DevOps
 - 🌱 I’m currently learning Customer Service & Growth Hacking
 - 💞️ I’m looking to collaborate on Umra / Hajj and Halal Tour service
-- 📫 How to reach me muslimpergi.cs@gmail.com
+- 📫 How to reach me muslimpergi.cs [at] gmail.com
 
 <!---
 muslimpergics/muslimpergics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
